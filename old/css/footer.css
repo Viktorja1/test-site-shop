@@ -1,0 +1,10 @@
+.footer {
+    background: bisque;
+    padding: 20px;
+    font: normal 12px Arial;
+    text-align: left;
+}
+
+.contacts {
+    color: darkgrey;
+}
